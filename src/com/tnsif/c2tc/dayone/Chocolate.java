@@ -1,9 +1,10 @@
 package com.tnsif.c2tc.dayone;
 
-public class DayOne {
+public class Chocolate {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		// TODO Auto-generated method stub
+        
 	}
 
 }
